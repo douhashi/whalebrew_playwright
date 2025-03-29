@@ -1,0 +1,4 @@
+services:
+  playwright:
+    image: douhashi/whalebrew_playwright
+    build: .
